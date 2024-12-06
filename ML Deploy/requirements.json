@@ -1,0 +1,6 @@
+{  
+ "backend-service-url": "https://submission-fatkhur-345905217957.asia-southeast2.run.app/",
+ "frontend-service-url": "https://submissionmlgc-mfatkhurrohman.et.r.appspot.com/",
+ "project-id": "submissionmlgc-mfatkhurrohman",
+ "bucket-name": "storage-cancer-prediction"
+}
